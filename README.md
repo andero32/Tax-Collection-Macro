@@ -22,3 +22,6 @@ Enter the total income when prompted.
 The macro will calculate and display the total tax owed based on the income entered.
 
 *Feel free to edit the code to fit your specific amounts / rates!*
+
+
+![image](https://user-images.githubusercontent.com/130467114/235973345-c0527bfe-e379-43a9-ac74-d7521fa39598.png)
