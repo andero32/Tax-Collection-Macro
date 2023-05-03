@@ -24,6 +24,8 @@ The macro will calculate and display the total tax owed based on the income ente
 *Feel free to edit the code to fit your specific amounts / rates!*
 
 
-![image](https://user-images.githubusercontent.com/130467114/235979543-3c4ca05e-df92-4d21-a575-3633b23ac874.png)
-![image](https://user-images.githubusercontent.com/130467114/235979631-15dd296d-0400-43ca-aab8-36eb0e74f405.png)
+![image](https://user-images.githubusercontent.com/130467114/236020445-02e0970f-8f43-495d-a68a-5b8dac67820c.png)
+
+![image](https://user-images.githubusercontent.com/130467114/236020554-53d6d02d-dd4f-4ae8-b0f1-d190206cae99.png)
+
 
