@@ -25,3 +25,4 @@ The macro will calculate and display the total tax owed based on the income ente
 
 
 ![image](https://user-images.githubusercontent.com/130467114/235973345-c0527bfe-e379-43a9-ac74-d7521fa39598.png)
+![image](https://user-images.githubusercontent.com/130467114/235979328-ff94f6ee-945c-4c9a-872d-33d4ab0325a9.png)
