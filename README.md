@@ -1,5 +1,5 @@
 # Tax-Collection-Macro
-💰 Simple tax macro to add into tax collection worksheets 💰
+💰 Simple tax macro to add into tax collection worksheets! 💰
 This is a simple macro for collecting taxes based on income in Microsoft Excel. It is written in Visual Basic for Applications (VBA) and can be used in any version of Excel that supports VBA macros.
 
 ## Installation
