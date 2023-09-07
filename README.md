@@ -22,7 +22,7 @@ Click the button or shape assigned to the "CollectTax" macro.
 Enter the total income when prompted.
 The macro will calculate and display the total tax owed based on the income entered.
 
-*Feel free to edit the code to fit your specific amounts / rates!*
+*Feel free to edit the code to fit your specific amounts / rates!!*
 
 
 ![image](https://user-images.githubusercontent.com/130467114/236020445-02e0970f-8f43-495d-a68a-5b8dac67820c.png)
